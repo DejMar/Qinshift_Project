@@ -1,0 +1,80 @@
+{
+    "countries": [
+        {
+            "name": "All",
+            "available": true
+        },
+        {
+            "name": "Czechia",
+            "available": true
+        },
+        {
+            "name": "Belarus",
+            "available": false
+        },
+        {
+            "name": "Belgium",
+            "available": false
+        },
+        {
+            "name": "Bosnia and Herzegovina",
+            "available": false
+        },
+        {
+            "name": "Bulgaria",
+            "available": false
+        },
+        {
+            "name": "Egypt",
+            "available": false
+        },
+        {
+            "name": "Germany",
+            "available": false
+        },
+        {
+            "name": "Moldova",
+            "available": false
+        },
+        {
+            "name": "Netherlands",
+            "available": false
+        },
+        {
+            "name": "North Macedonia",
+            "available": false
+        },
+        {
+            "name": "Poland",
+            "available": false
+        },
+        {
+            "name": "Serbia",
+            "available": false
+        },
+        {
+            "name": "Slovakia",
+            "available": false
+        },
+        {
+            "name": "Spain",
+            "available": false
+        },
+        {
+            "name": "Sweden",
+            "available": false
+        },
+        {
+            "name": "Switzerland",
+            "available": false
+        },
+        {
+            "name": "Türkiye",
+            "available": false
+        },
+        {
+            "name": "United States",
+            "available": false
+        }
+    ]
+}
