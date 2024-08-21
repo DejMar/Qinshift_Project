@@ -1,5 +1,9 @@
 [
   {
+    "title": "DevOps Data Engineer",
+    "location": "Prague, Brno"
+  },
+  {
     "title": "Senior Full Stack Developer",
     "location": "Prague"
   },
@@ -74,9 +78,5 @@
   {
     "title": "IT Analyst",
     "location": "Automotive"
-  },
-  {
-    "title": "Talent Academy - IT Operations & Support Engineer",
-    "location": "Operations 24/7"
   }
 ]
